@@ -12,4 +12,4 @@ function Results({ results }) {
     )
 }
 
-export default Results
+export default Results;

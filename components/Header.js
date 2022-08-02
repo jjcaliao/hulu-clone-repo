@@ -6,8 +6,8 @@ import {
     SearchIcon,
     UserIcon,
 } from "@heroicons/react/outline";
-import Image from "next/image"
-import HeaderItem from "./HeaderItem"
+import Image from "next/image";
+import HeaderItem from "./HeaderItem";
 
 function Header(){
     return(
@@ -30,4 +30,4 @@ function Header(){
     )
 }
 
-export default Header
+export default Header;
